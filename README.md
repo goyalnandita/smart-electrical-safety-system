@@ -16,5 +16,5 @@ The system monitors temperature and electrical conditions. When unsafe condition
 - Prevents overheating
 - Enhances electrical safety
 ## Project Image
-![Project Image](image.jpg)
+![Project Image](image.jpeg)
 
