@@ -15,3 +15,6 @@ The system monitors temperature and electrical conditions. When unsafe condition
 - Automatic power cut-off
 - Prevents overheating
 - Enhances electrical safety
+## Project Image
+![Project Image](image.jpg)
+
